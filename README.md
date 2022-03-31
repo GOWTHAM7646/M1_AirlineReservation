@@ -17,16 +17,7 @@ Folder             | Description
 `Test_plan`      | Documents with test plans and procedures
 
 
-## Challenges Faced and How Was It Overcome
 
-1. IDE Challenges
-2. Writing some functionalities. It was resolved by debugging
-
-## Learning Resources
-1. Futureskill reference videos.
-2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
-3. [git inspector](https://github.com/ejwa/gitinspector.git)
-4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
 
 
