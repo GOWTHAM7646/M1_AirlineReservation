@@ -1,5 +1,3 @@
-
-
 #include "airline_reservation.h"
 #define size 5
 #include "assert.h"
