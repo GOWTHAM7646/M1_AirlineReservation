@@ -17,6 +17,12 @@ Folder             | Description
 `Test_plan`      | Documents with test plans and procedures
 
 
+# Badges
+* Codacy - Static Code Analysis
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c55a687c3429442890095fcc6c474605)](https://www.codacy.com/gh/GOWTHAM7646/M1_AirlineReservation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GOWTHAM7646/M1_AirlineReservation&amp;utm_campaign=Badge_Grade)
+
+
+
 
 
 
